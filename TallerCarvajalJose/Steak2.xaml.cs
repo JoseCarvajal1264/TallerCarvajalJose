@@ -9,7 +9,7 @@ public partial class Stack : ContentPage
 
     private void Boton2_Clicked(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new MainPage());
+		Navigation.PushAsync(new Flex3());
 		
     }
 }
